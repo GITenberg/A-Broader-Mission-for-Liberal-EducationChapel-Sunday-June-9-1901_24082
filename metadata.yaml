@@ -1,0 +1,27 @@
+_repo: A-Broader-Mission-for-Liberal-EducationChapel-Sunday-June-9-1901_24082
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Worst, John H. (John Henry)
+    birthdate: 1850
+    deathdate: 1945
+    gutenberg_agent_id: '26237'
+    url: http://www.gutenberg.org/2009/agents/26237
+description: ''
+gutenberg_issued: '2007-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Vocational education'
+title: "A Broader Mission for Liberal Education\r\nBaccalaureate Address, Delivered\
+  \ in Agricultural College Chapel, Sunday June 9, 1901"
+url: http://www.gutenberg.org/ebooks/24082
